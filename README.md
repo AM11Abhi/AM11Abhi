@@ -18,9 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AM11Abhi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://www.nowcard.store/api/card/AM11Abhi" alt="NowCard"/>
-</p>
+
+  
+![NowCard](https://www.nowcard.store/api/card/AM11Abhi)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
