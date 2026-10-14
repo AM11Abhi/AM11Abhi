@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h2>💫 About Me:</h2>
-👨‍💻 I’m a 3rd-year CS student who enjoys building cool stuff that actually works.From web apps to machine learning models, I like solving problems and turning ideas into functional solutions.Currently on a journey of learning, improving, and creating things that make an impact. 🚀
+👨‍💻 I’m a final year CS student who enjoys building cool stuff that actually works.From web apps to machine learning models, I like solving problems and turning ideas into functional solutions.Currently on a journey of learning, improving, and creating things that make an impact. 🚀
 
 
 ## 🌐 Socials:
